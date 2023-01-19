@@ -1,0 +1,39 @@
+#body {
+    background-color: grey;
+}
+
+.pst-content {
+    display: flex;
+    justify-content: space-between;
+    height: 250px;
+    background-color: rgb(212, 212, 212);
+}
+
+.postimg {
+    width: 70%;
+}
+
+.pst {
+    text-align: center;
+    align-items: center;
+}
+
+
+.tg p {
+    display: inline-block;
+    background-color: red;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.revise-btn {
+    margin-top: 10px;
+}
+
+.revise {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    padding: 5px;
+}
